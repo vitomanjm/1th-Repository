@@ -49,3 +49,10 @@ body
 {   background: white;
     padding: 1em;
 }
+
+#container #footer 
+{
+    background: #770;
+    color: whitesmoke;
+    text-align: center;
+}
